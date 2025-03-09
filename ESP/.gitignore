@@ -1,0 +1,29 @@
+# Ignore sensitive config file
+config.h
+
+# Arduino build files
+*.bin
+*.elf
+*.hex
+*.eep
+*.o
+*.d
+*.a
+*.map
+*.s
+
+# Arduino libraries
+libraries/
+
+# PlatformIO files (if using PlatformIO)
+.pio/
+.vscode/
+platformio.ini
+*.pioenvs/
+*.piolibdeps/
+
+# Mac OS system files (if working on macOS)
+.DS_Store
+
+# Windows system files
+Thumbs.db
