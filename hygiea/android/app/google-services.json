@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1007572176922",
+    "firebase_url": "https://hygiea-dc83a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hygiea-dc83a",
+    "storage_bucket": "hygiea-dc83a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007572176922:android:4337e8c5009b8b303dc1a3",
+        "android_client_info": {
+          "package_name": "com.example.hygiea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rxz9pdJTy_gNcVcWIe4PsbuicdPaMwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
